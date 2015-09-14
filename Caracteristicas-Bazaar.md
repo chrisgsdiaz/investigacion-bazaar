@@ -1,6 +1,7 @@
 # Bazaar (Características)
 
 Dentro de las caracteristicas que encontramos en Bazaar tenemos:
+
 - Gestiona el almacenamiento de cada uno de los elementos del proyecto.
 - Capacidad de gestionar ramas de desarrollo paralelas a la principal.
 - Gestión de conflictos, en el caso de un usuario cambie un elemento de un proyecto.
@@ -28,6 +29,8 @@ Proyectos destacados que utilizan Bazaar como sistema de control de versiones:
 - MySQL
 - Gnash
 - Squid
+
+
 
 
 
